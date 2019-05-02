@@ -1,1 +1,2 @@
-# CRUD
+# ProjetoCRUD
+Sistema de Gerenciamento de Funcionarios.
